@@ -1,0 +1,1 @@
+mvn package && java -jar target/tim-hello-world-0.1.0.jar

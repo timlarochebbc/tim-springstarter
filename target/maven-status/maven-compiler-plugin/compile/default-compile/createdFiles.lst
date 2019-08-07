@@ -1,0 +1,6 @@
+com/tim/config/AppConfig.class
+com/tim/model/BookStub.class
+com/tim/app/App.class
+com/tim/model/BooksControllerInterface.class
+com/tim/model/Book.class
+com/tim/app/BooksController.class
